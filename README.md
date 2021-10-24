@@ -1,3 +1,3 @@
 # greasy_render
 
-Auto Render image from grease penciled traced images and apply some effects
+Experimentation on Rendering video from grease pencil traced images. 
